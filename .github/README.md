@@ -9,3 +9,7 @@ Credits to <https://www.w3schools.com/howto/howto_html_include.asp>
 ## Why this is useful
 
 This can be used as a method to clean large HTML files by separating them into many smaller files.
+
+## Warning
+
+This approach is not functional when running the HTML file from your PC via your browser.
